@@ -1,0 +1,119 @@
+
+@media screen and (max-width:1200px){
+  header #header-bottom nav#main-menu-nav .main-menu li#dropdown #sub-menu{
+    padding: 0px !important;
+    margin: 0px;
+    border-radius: 0;
+  }
+}
+
+
+@media screen and (max-width:1081px){
+
+  #wrapper-content .carousel-inner .carousel-caption{
+    bottom: 15%;  
+  }
+
+}
+
+
+
+@media screen and (max-width:1024px){
+  
+  #wrapper-content .carousel-inner .carousel-caption .info .title{
+    font-size: 30px;
+  }
+  #wrapper-content .carousel-inner .carousel-caption .info .sale{
+    font-size: 14px;
+  }
+  #wrapper-content .carousel-inner .carousel-caption .info .info-more{
+    font-size: 14px;
+  }
+  #wrapper-content .carousel-inner .carousel-item .carousel-caption .info button{
+    font-size:14px;
+    padding:2px 15px;
+  }
+  #wrapper-content .carousel-inner .carousel-caption{
+    bottom: 20%;  
+  }
+  #wrapper-content #commit-freeship-support .box .icon i {
+    font-size: 40px;
+  }
+  #wrapper-content #commit-freeship-support .box p.info {
+    font-size: 14px;
+  }
+  #wrapper-content #commit-freeship-support .box{
+    padding-top:24px !important;
+  }
+
+   
+}
+
+@media screen and (max-width:768px){
+  
+  #top-header{
+    display: none;
+  }
+
+  
+  
+  #wrapper-content #commit-freeship-support #freeship{
+    margin-top: 10px;
+  }
+  #wrapper-content #commit-freeship-support #support{
+    margin-top: 10px;
+  }
+  #wrapper-content #commit-freeship-support .box .icon i {
+    font-size: 40px;
+  }
+  #wrapper-content #commit-freeship-support .box p.info {
+    font-size: 14px;
+  }
+  #wrapper-content #commit-freeship-support .box{
+    padding-top:20px !important;
+    padding-bottom: 20px !important;
+  }
+  #wrapper-content #category #category-1{
+    padding-right:15px !important;
+  }
+  #wrapper-content #category #category-2{
+    padding-left:15px !important;
+  }
+
+  #wrapper-content #lastest-blog .list-blog .blog-detail{
+      margin-top:20px;  
+    
+  }
+  #wrapper-content #lastest-blog .list-blog .box{
+    margin-top:0px !important;
+  }
+  #wrapper-content #commit-freeship-support .box {
+    margin-right: 0px;
+  }
+
+  #wrapper-content #commit-freeship-support{
+    margin-top: 40px;
+    padding-bottom: 40px;
+  }
+  #wrapper-content #list-products{
+    margin-top: 45px;
+  }
+  #wrapper-content #product-feature{
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  #wrapper-content #lastest-blog{
+    padding-top: 40px;
+  }
+  #wrapper-content #lastest-blog .list-blog{
+    margin-top:24px;
+  }
+
+}
+
+
+@media screen and (max-width:480px){
+
+   
+
+}
